@@ -1,0 +1,47 @@
+{
+  "getAllSuccessResponse": {
+    "code": 200,
+    "status": "OK",
+    "message": "Successfully retrieved list of products"
+  },
+  "getSuccessResponse": {
+    "code": 200,
+    "status": "OK",
+    "message": "Successfully retrieved product"
+  },
+  "postSuccessResponse": {
+    "code": 201,
+    "status": "Created",
+    "message": "Successfully added product"
+  },
+  "putSuccessResponse": {
+    "code": 200,
+    "status": "OK",
+    "message": "Successfully updated product"
+  },
+  "deleteSuccessResponse": {
+    "code": 204,
+    "status": "No Content",
+    "message": "Successfully deleted product"
+  },
+  "noContentResponse": {
+    "code": 204,
+    "status": "No Content",
+    "message": "Products are not available"
+  },
+  "badRequestResponse": {
+    "code": 400,
+    "status": "Bad Request",
+    "message": "Invalid request"
+  },
+  "notFoundResponse": {
+    "code": 404,
+    "status": "Not Found",
+    "message": "The product with the specified productId does not exist"
+  },
+  "internalServerErrorResponse": {
+    "code": 500,
+    "status": "Internal Server Error",
+    "message": "Error Occurred"
+  }
+}
