@@ -1,5 +1,3 @@
-# selan-deemantha-IS24-full-stack-competition-req97073
-
 # Read Me First
 
 This is the Spring Boot RESTful APIs backend for the IS-24 Full Stack Developer Position Code Challenge.
