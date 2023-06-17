@@ -1,6 +1,6 @@
 # Read Me First
 
-This is the Spring Boot RESTful APIs backend for the IS-24 Full Stack Developer Position Code Challenge.
+This is the Spring Boot RESTful APIs backend & React CRUD Front End Demo Challange Project
 
 # Getting Started
 
